@@ -1,7 +1,7 @@
 local ESX, QBCore = nil, nil
 
 if GetResourceState('es_extended') == 'started' then
-    TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
+    ESX = exports['es_extended']:getSharedObject()
 end
 
 if GetResourceState('qb-core') == 'started' then
