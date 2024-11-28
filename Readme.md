@@ -14,7 +14,8 @@
 ### Installation 🛠️
 
 1. **Lade das Skript runter** und schmeiß es in deinen **resources**-Ordner.
-2. **Konfiguriere das Skript** in der **`config.lua`**. Hier kannst du die Einreise-Positionen und andere  Einstellungen anpassen – fühl dich frei, kreativ zu werden! 🎨
+2. Installiere [oxmysql](https://github.com/overextended/oxmysql), falls du das noch nicht hast
+3. **Konfiguriere das Skript** in der **`config.lua`**. Hier kannst du die Einreise-Positionen und andere  Einstellungen anpassen – fühl dich frei, kreativ zu werden! 🎨
    
 ```lua
 Config.Locale = 'de'  -- Sprache (de/en)
