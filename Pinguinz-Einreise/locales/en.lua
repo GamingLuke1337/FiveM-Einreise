@@ -1,3 +1,4 @@
+Locales = Locales or {}
 Locales ['en'] = {
 	['notification_header'] = 'Entry',
 	['welcome'] = 'Welcome to Los Santos',
