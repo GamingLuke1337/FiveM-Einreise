@@ -1,4 +1,4 @@
-# Pinguinz Einreise – Willkommen auf der Reise! ✈️🛬
+# Pinguinz Einreise ✈️🛬
 
 **Pinguinz Einreise** ist das perfekte Tool, um deine Spieler zur Einreise-Position zu teleportieren. Und das Beste daran: Du musst dich nicht mal anstellen – mit einem einfachen Befehl **/einreise [ID]** teleportierst du Spieler direkt an die Zielposition. Ganz ohne nervige Passkontrolle oder Wartezeiten. 😎
 
